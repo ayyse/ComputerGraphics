@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Acer\Desktop\repos\SampleProgram\SampleProgram\main.cpp(27,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SampleProgram.vcxproj -> C:\Users\Acer\Desktop\repos\SampleProgram\Debug\SampleProgram.exe
