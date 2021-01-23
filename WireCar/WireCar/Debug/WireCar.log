@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(43,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(53,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(63,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(73,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(88,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(89,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(101,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(101,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(101,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(102,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(102,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(102,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(128,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(129,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(142,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(151,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(203,14): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(286,16): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(293,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(317,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Acer\source\repos\WireCar\WireCar\main.cpp(324,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  WireCar.vcxproj -> C:\Users\Acer\source\repos\WireCar\Debug\WireCar.exe
